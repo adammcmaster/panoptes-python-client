@@ -1,0 +1,107 @@
+{
+  "@context": "https://raw.githubusercontent.com/codemeta/codemeta/master/codemeta.jsonld",
+  "@type": "Code",
+  "author": [
+    {
+      "@id": "https://orcid.org/0000-0002-4785-7867",
+      "@type": "Person",
+      "email": "work@adam-mcmaster.com",
+      "name": "Adam McMaster",
+      "affiliation": "University of Oxford, The Open University"
+    },
+    {
+      "@id": "",
+      "@type": "Person",
+      "email": "",
+      "name": "yuenmichelle1",
+      "affiliation": "Adler Planetarium"
+    },
+    {
+      "@id": "",
+      "@type": "Person",
+      "email": "",
+      "name": "Campbell Allen",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "@id": "",
+      "@type": "Person",
+      "email": "",
+      "name": "Sarah Allen",
+      "affiliation": "Adler Planetarium"
+    },
+    {
+      "@id": "",
+      "@type": "Person",
+      "email": "",
+      "name": "Michael Laraia",
+      "affiliation": "University of Minnesota"
+    },
+    {
+      "@id": "",
+      "@type": "Person",
+      "email": "",
+      "name": "Mike Walmsley",
+      "affiliation": "University of Oxford, University of Manchester"
+    },
+    {
+      "@id": "",
+      "@type": "Person",
+      "email": "",
+      "name": "Rona Costello",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "@id": "",
+      "@type": "Person",
+      "email": "",
+      "name": "Hugh Dickinson",
+      "affiliation": "The Open University"
+    },
+    {
+      "@id": "",
+      "@type": "Person",
+      "email": "",
+      "name": "Zach Wolfenbarger",
+      "affiliation": "Adler Planetarium"
+    },
+    {
+      "@id": "",
+      "@type": "Person",
+      "email": "",
+      "name": "lcjohnso",
+      "affiliation": "Adler Planetarium, Northwestern University"
+    },
+    {
+      "@id": "",
+      "@type": "Person",
+      "email": "",
+      "name": "Tim Lingard",
+      "affiliation": "1715Labs"
+    },
+    {
+      "@id": "",
+      "@type": "Person",
+      "email": "",
+      "name": "Darryl Wright",
+      "affiliation": "University of Minnesota"
+    },
+    {
+      "@id": "",
+      "@type": "Person",
+      "email": "",
+      "name": "Edward Gomez",
+      "affiliation": "Cardiff University"
+    }
+  ],
+  "identifier": "",
+  "codeRepository": "https://github.com/zooniverse/panoptes-python-client",
+  "datePublished": "2021-08-06",
+  "dateModified": "2021-08-06",
+  "dateCreated": "2021-08-06",
+  "description": "This package is the Python SDK for Panoptes, the platform behind the Zooniverse. This module is intended to allow programmatic management of projects, providing high level access to the API for common project management tasks.",
+  "keywords": "python, zooniverse, citizen science, panoptes",
+  "license": "Apache 2.0",
+  "title": "Panoptes Client",
+  "version": "1.4.0"
+}
