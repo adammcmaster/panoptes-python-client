@@ -29,7 +29,19 @@ bibliography: paper.bib
 
 # Summary
 
+Brief high-level summary
+
+domain -- citizen science, zooniverse and panoptes, need for automated management of projects
+
 # Statement of need
+
+research applications
+
+# Software functionality
+
+# Projects using this and recent publications enabled
+
+> Mention (if applicable) a representative set of past or ongoing research projects using the software and recent scholarly publications enabled by it.
 
 # Citations
 
